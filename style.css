@@ -1,0 +1,15 @@
+style.css
+
+    table{
+    border-radius: 5px;
+    border-style:solid ;
+    border-collapse:collapse;
+}
+
+table * {
+
+     border-radius: 5px;
+    border: solid;
+
+    }
+
